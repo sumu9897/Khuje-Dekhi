@@ -1,1 +1,1 @@
-# Khuje-Dekhi![Uploading admin2.png…]()
+# Khuje-Dekhi!
