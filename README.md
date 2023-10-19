@@ -6,6 +6,14 @@ Welcome to Khuje Dekhi, your one-stop destination for online shopping of shari, 
 
 Khuje Dekhi is an online platform that specializes in selling shari, three pieces, and longi. Browse through our collection and find the perfect outfit for any occasion.
 
+## Website Link
+https://www.khujedekhi.com/
+
+## Facebook page Link
+https://www.facebook.com/khujedekhibd
+
+
+
 ## Adminsite Screenshots
 
 Here are some screenshots of the Khuje Dekhi platform:
